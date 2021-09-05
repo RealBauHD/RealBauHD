@@ -10,12 +10,12 @@
 
 <p align="center">
   <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=BauHD&show_icons=true&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RealBauHD&show_icons=true&theme=dark" />
   </a>
 </p>
 <br>
 <p align="center">
   <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BauHD&theme=dark&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealBauHD&theme=dark&layout=compact" />
   </a>
 </p>
