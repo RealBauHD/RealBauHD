@@ -1,7 +1,10 @@
 <h2>
-  Hi there, my name is Aaron and I am from germany.👋
+  Hey, I am Aaron and I am from Germany.👋
+  The most time I am active in the Minecraft scene.
   <br>
 </h2>
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=RealBauHD&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
 <h3 align="center">
   Stats
